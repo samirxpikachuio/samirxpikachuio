@@ -4,12 +4,36 @@
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://telegra.ph/file/553085c5e558b0e4b9cae.jpg)
 
 <p align="center">
-  <a href="https://github.com/khrlmstfa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+Just+Noob;But+I+will+Keep+Learning;I%20|%20Like%20|%20CODING%20:);lets%20study;Together%2Acumalaka%20:)%20:)&center=true&width=500&height=50"></a>
+  <a href="[[https://github.com/khrlmstfa/readme-typing-svg]]"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+Just+Noob;But+I+will+Keep+Learning;I%20|%20Like%20|%20CODING%20:);lets%20study;Together%2Acumalaka%20:)%20:)&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I'm an amateur and Noob.</h4>
+
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KhrlMstfa&label=Profile%20views&color=0e75b6&style=plastic" alt="khrlmstfa" /> </p>
+<div>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <div align="center">
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+  </div>
+<li>
+ <b>Name:</b> Samir</li>
+<li>
+<b>Fursona:</b> Pikachu OE
+</li>
+<li>
+<b>Loves:</b> anime, osu, rhythm games
+</li>
+<li>
+<b>Gender:</b> he/him/male
+</li>
+<li>
+<b>Hobbys:</b> Tech Stuff, Bots, Web Development
+</li>
+<li>
+<b>Working @:</b> Arch.2 Labs
+</li>
+<br><br><br>
+</div>
 
 ## 📊 GitHub Stats
 
