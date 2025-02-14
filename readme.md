@@ -11,12 +11,13 @@
 <a href= "https://dev.to/samirxpikachuio"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 <a href= "https://x.com/samirxpikachu"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
 <!-- <a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a> -->
-</p>
-<h1 align="center">Hi, I'm Samir! <img src="https://telegra.ph/file/e5ae04a70cdf3a7763c79.jpg" width="35" alt="Waving Hand Emoji"></h1>
+
+<h2 align="center">Hi, I'm Samir! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/553085c5e558b0e4b9cae.jpg" alt="Octocat Illustration">
+  <img src="https://static1.squarespace.com/static/5fe4caeadae61a2f19719512/t/66952374463e0d718680ab79/1721049976714/Hi" alt="Octocat Illustration" width="400" style="border-radius: 65px;">
 </p>
+
 
 <p align="center">
   <a href="https://github.com/khrlmstfa/readme-typing-svg">
@@ -35,7 +36,6 @@
 <ul>
   <li><strong>Name:</strong> Samir</li>
   <li><strong>Interests:</strong> Anime, Rhythm Games, Technology</li>
-  <li><strong>Pronouns:</strong> He/Him</li>
   <li><strong>Hobbies:</strong> Software Development, Bots, Web Development</li>
   <li><strong>Working @:</strong> Arch.2 Labs</li>
 </ul>
@@ -44,11 +44,22 @@
 
 <hr/>
 
-## 🛠️ Technologies & Skills
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-*   **Languages:** JavaScript, Python
-*   **Cloud:** Exploring Cloud Technologies
-*   **Other:**  Web Development, Bot Development
+```javascript
+const info = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, Rust, Python, kotlin],
+  tools: [React, Redux, Bun, Shadcn UI, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  useless_info:   {
+                        alias: "Pikachu Oe",
+                        favRuntime: "BunJS",
+                        inArelationship: true
+                  },
+              }
+```
+
 
 ## 📊 GitHub Stats
 
@@ -86,14 +97,32 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="700"/>
 </p>
 
-### 🎧 Spotify Playing
+<h1>
+  i really like music :headphones:
+</h1>
+
+<!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
+    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
+  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
 </p>
+ 
 
 ### 🙋‍♀️ Let's Connect
 <p align="center">
   <a href="https://github.com/samirxpikachuio/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://instagram.com/samir_xzh"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
