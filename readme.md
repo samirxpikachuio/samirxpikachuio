@@ -11,10 +11,14 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KhrlMstfa&label=Profile%20views&color=0e75b6&style=plastic" alt="khrlmstfa" /> </p>
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samirxpikachuio&show_icons=true&theme=radical" alt="Samir's GitHub stats" />
+</p>
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khrlmstfa&theme=algolia" alt="khrlmstfa"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samirxpikachuio&theme=algolia" alt="Samir"  /></p>
 
 <p align="left"> 
 
@@ -30,6 +34,12 @@
 
 
 ------
+
+ ## 🔥 Profile Views
+
+ <p align="center">
+  <img width="400px" src="https://count.getloli.com/get/@tas33n?theme=rule34"></img>
+</p>
 
 ### 📊 Github Stats (Expand to View) 
 
@@ -63,14 +73,11 @@
 ### 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="https://github.com/samirxpikachuio/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://instagram.com/samir_xzh"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
 
 
-
-* Credit: Samir Œ 
-* Last Edited on: 20/08/2023
 
 
 
