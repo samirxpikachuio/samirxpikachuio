@@ -38,7 +38,7 @@
  ## 🔥 Profile Views
 
  <p align="center">
-  <img width="400px" src="https://count.getloli.com/get/@tas33n?theme=rule34"></img>
+  <img width="400px" src="https://count.getloli.com/get/@samirxpikachuio?theme=rule34"></img>
 </p>
 
 ### 📊 Github Stats (Expand to View) 
@@ -48,10 +48,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/khrlmstfa/github-readme-stats"><img alt="khrlmstfa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khrlmstfa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/samirxpikachuio/github-readme-stats"><img alt="Samir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samirxpikachuio&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eabdalmufid&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samirxpikachuio&show_icons=true&locale=en&layout=compact&theme=algolia" alt="samirxpikachuio" height="192px"/>
   <br/>
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
