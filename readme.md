@@ -103,6 +103,10 @@ const info = {
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="700"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samirxpikachuio&theme=dracula&hide_border=false" alt="Samirs activity" />
+</p>
+
 
 <h1>
   i really like music :headphones:
