@@ -64,7 +64,7 @@ const info = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samirxpikachuio&show_icons=true&theme=radical" alt="Samir's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samirxpikachuio&show_icons=true&theme=radical&show_rank=true&rank_icon=github&text_bold=true" alt="Samir's GitHub stats" />
 </p>
 
 ## Top Language 
