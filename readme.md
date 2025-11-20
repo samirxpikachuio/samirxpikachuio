@@ -69,8 +69,10 @@ const info = {
 
 ## Top Language 
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samirxpikachuio&layout=compact&show_icons=true&theme=radical" alt=" Samir's top used languages
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samirxpikachuio&layout=compact&show_icons=true&theme=radical" alt=" Samir's top used languages" />
 </p>
+
+
 
 ### 🔥 Streak Stats
 <p align="center">
