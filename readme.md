@@ -67,6 +67,11 @@ const info = {
   <img src="https://github-readme-stats.vercel.app/api?username=samirxpikachuio&show_icons=true&theme=radical" alt="Samir's GitHub stats" />
 </p>
 
+## Top Language 
+<p align="center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samirxpikachuio&layout=compact&show_icons=true&theme=radical" alt=" Samir's top used languages
+</p>
+
 ### 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samirxpikachuio&theme=algolia" alt="Samir's Streak" />
